@@ -1,6 +1,6 @@
 org: chengxianga2008
 app: aws-node-express-api
-service: aws-node-express-api
+service: node-service
 frameworkVersion: '3'
 
 provider:
